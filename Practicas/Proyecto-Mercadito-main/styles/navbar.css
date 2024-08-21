@@ -1,0 +1,14 @@
+.navbar{
+    background-color: var(--primary-color);
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+}
+.logo_text{
+    width: 15rem;
+    height: auto;
+}
+.icon_menu{
+    width: 3rem;
+    height: auto;
+}
